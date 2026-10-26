@@ -1,0 +1,14 @@
+{
+  "project": "william-robert-grove-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "BpSG47fNTwJBnFQLRiUWryGXFDXTveyqt4iCnv5NqnyC",
+  "vault_account": "7t4DV7qsoGihc8oXAjdsCD4YvKAW2aop3ydCF8Ccrwe5",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5HPevH2A6E2F9GCVzFwSxRiULttGiiHKccH7cfBiHMUDdwdTXwLxdsH4U18vddoUq5Kc2aqjJo3hvVXGVF3qtUsi",
+  "account_tx": "v8C5KpPqVne2KFMvwbPvWBsssiUPKJjr4zqXAp3Kk1hkdEF9j88AHAKq12EPuzTUdXmmccaNoHeXzg3deXVstZ8",
+  "mint_tx": "62YD7597W5nU47tdXdpAjDRmkNszHRQjkkjKRiS3s5JgwtbFA8YVhYrnmZLsSgopFCVXUcf1FEbCUC9Ppq568Z1U",
+  "solana_explorer_mint": "https://explorer.solana.com/address/BpSG47fNTwJBnFQLRiUWryGXFDXTveyqt4iCnv5NqnyC?cluster=devnet",
+  "timestamp": "2026-10-26 17:03:17 UTC"
+}
